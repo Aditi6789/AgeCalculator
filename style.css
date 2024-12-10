@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    text-align: center;
+}
+#heading1{
+    padding-top: 10vmin;
+}
+.container{
+    height: 50vh;
+    width: 50vh;
+    margin-top: 5vmin;
+    margin-left: 80vmin;
+    border-radius: 10vmin;
+    border: rgb(78, 41, 59) solid 2px;
+    text-align: center;
+    background-color:whitesmoke;
+    color:maroon;
+    font-weight: 900;
+    font-size: larger;
+}
+.date-container{
+    text-align: center;
+    margin: 50px;
+}
+#calculateBtn{
+    background-color: rgb(4, 4, 4);
+    color: rgb(255, 255, 255);
+    border-radius: 2vmin;
+   padding: 10px;
+    text-align: center;
+    margin-bottom: 5vmin;
+}
